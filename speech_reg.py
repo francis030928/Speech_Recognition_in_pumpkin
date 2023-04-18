@@ -8,7 +8,7 @@ st.markdown("<h1 style = 'color: #FFACAC'>VOICE REECOGNITION APP</h1> ", unsafe_
 st.markdown("<h6 style = 'top_margin: 0rem; color: #F2921D'>Built by GoMyCode Pumpkin Reedemers</h6>", unsafe_allow_html = True)
 
 # Add an image to the page
-st.image('pngwing.com (1).png', caption = 'VOICE OF REDEEMERS, width = 400)
+st.image('pngwing.com (1).png', caption = 'VOICE OF REDEEMERS', width = 400)
 
 # Create a line and a space underneath
 st.markdown('<hr><hr><br>', unsafe_allow_html= True)
