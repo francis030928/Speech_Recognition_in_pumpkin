@@ -1,0 +1,7 @@
+nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
+PyAudio==0.2.13
+pyttsx3==2.90
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+SpeechRecognition==3.10.0
+streamlit==1.20.0
+
